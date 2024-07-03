@@ -6,5 +6,29 @@
 
 h1{
     font-family: Monstaserrat-VariableFont_wghttf;
+    font-size: 70pt;
+}
+body{
+    background-image: url("../img/pousada2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+}
+
+section{
+
+    background-color: white;
+    padding: 100px 30px;
+   
+
+    }
+#home img{
+    width: 80%;
+}
+.acomodação{
+    padding: 100px 200px
+    text-alin: center;
+    color:white;
+    background-color: rgb(0,0,0.7);
 }
     
